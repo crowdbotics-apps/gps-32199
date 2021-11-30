@@ -950,7 +950,10 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
-"@modules/splash@file:./modules/splash/":
+"@modules/maps@file:./modules/maps/":
+  version "1.0.0"
+
+"@modules/splash@file:./modules/splash":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
