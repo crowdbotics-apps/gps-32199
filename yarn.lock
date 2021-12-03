@@ -973,10 +973,10 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
-"@modules/maps@file:./modules/maps/":
+"@modules/splash@file:./modules/splash":
   version "1.0.0"
 
-"@modules/splash@file:./modules/splash":
+"@modules/splash@file:./modules/splash/":
   version "1.0.0"
 
 "@modules/user-profile@file:./modules/user-profile":
